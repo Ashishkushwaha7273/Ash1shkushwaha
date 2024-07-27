@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashishkushwaha7273
+- 👋 Hi, I’m @Ash1shkushwaha
 - 👀 I’m interested in Data science, and machine learning, software engineer.
 - 🌱 I’m currently learning python langauge.
 - 💞️ I’m looking to collaborate on ...
